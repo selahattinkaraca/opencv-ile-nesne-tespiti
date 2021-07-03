@@ -1,0 +1,1 @@
+# opencv-ile-nesne-tespiti
